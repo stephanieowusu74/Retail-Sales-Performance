@@ -7,7 +7,7 @@ This project presents an executive-style Power BI dashboard analyzing retail sal
 
 Click below to view the full interactive report:
 
-**[Retail Sales Performance Dashboard (PDF)](Retail%20Sales%20Dashboard.pdf)**
+**[Retail Sales Performance Dashboard (Pbix)](Retail%20Sales%20Dashboard.pbix)**
 
 
 ## Business Questions Answered
