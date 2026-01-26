@@ -3,6 +3,9 @@
 ## Overview
 This project presents an executive-style Power BI dashboard analyzing retail sales and profit performance using the Microsoft Financial Sample dataset. The dashboard is designed to support business decision-making by highlighting trends over time, geographic performance, product profitability, and year-over-year growth.
 
+![Dashboard Preview](dashboard.pdf)
+
+
 ## Business Questions Answered
 1. **How are sales trending over time?**  
    Sales show an overall upward trend with strong seasonality, peaking in the last quarter of each year (November).
