@@ -3,7 +3,7 @@
 ## Overview
 This project presents an executive-style Power BI dashboard analyzing retail sales and profit performance using the Microsoft Financial Sample dataset. The dashboard is designed to support business decision-making by highlighting trends over time, geographic performance, product profitability, and year-over-year growth.
 
-![Dashboard Preview](dashboard.pdf)
+![Dashboard Preview](retail sales dashboard.pdf)
 
 
 ## Business Questions Answered
