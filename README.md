@@ -23,13 +23,17 @@ Click below to view the full report:
 4. **Which product sub-categories are the most and least profitable?**  
    Labels have the highest profit margins, while Tables, Bookcases, and Supplies show negative margins, indicating potential pricing or cost issues.
 
-## Tools & Skills Demonstrated
+## Tools Used
 - Power BI Desktop  
-- Data Modeling (Star Schema)  
-- Power Query (Data Cleaning & Transformation)  
-- DAX Measures:
-  - Total Sales, Total Profit, Profit Margin  
-  - Sales Last Year (LY)  
-  - Sales Year-over-Year (YoY %)  
-  - Sales YTD  
+- Excel dataset
+  
+  ## Key Insights
+- Identified regional variations in sales performance, with certain regions underperforming
+- Discovered top-performing product categories driving revenue growth
+- Observed seasonal trends impacting sales performance
+
+  ## Business Recommendations
+- Focus marketing efforts on high-performing regions
+- Optimize inventory based on demand trends
+- Adjust pricing or promotions in underperforming segments
 
