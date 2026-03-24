@@ -1,33 +1,24 @@
 # Retail Sales Performance Dashboard (Power BI)
 ## Business Problem
-Retail businesses often struggle to track performance across regions, products, and time. This project analyzes sales data to uncover trends and support data-driven decision-making.
+This project analyzes retail sales data to identify performance trends, revenue drivers, and profitability challenges across regions and product categories, enabling data-driven business decisions.
 
 ## Overview
 This project presents an executive-style Power BI dashboard analyzing retail sales and profit performance using the Microsoft Financial Sample dataset. The dashboard is designed to support business decision-making by highlighting trends over time, geographic performance, product profitability, and year-over-year growth.
-
-## Dashboard Preview
-
-Click below to view the full report:
-**[Retail Sales Performance Dashboard (PDF)](Retail%20Sales%20Dashboard.pdf)**
 
 ## Business Questions Answered
 1. **How are sales trending over time?**  
    Sales show an overall upward trend with strong seasonality, peaking in the last quarter of each year (November).
 
 2. **Which states and product categories generate the most revenue and profit?**  
-   California leads in both total sales and profit. The Technology category is the top contributor to overall profit.
+  California contributes approximately X% of total sales and profit, making it the top-performing state.
 
-3. **How is the current year performing compared to the previous year?**  
+4. **How is the current year performing compared to the previous year?**  
    Year-over-Year (YoY) analysis shows positive growth, supported by time-intelligence measures in the dashboard.
 
-4. **Which product sub-categories are the most and least profitable?**  
-   Labels have the highest profit margins, while Tables, Bookcases, and Supplies show negative margins, indicating potential pricing or cost issues.
+5. **Which product sub-categories are the most and least profitable?**  
+  Labels generate the highest profit margins at approximately X%, while Tables and Bookcases show negative margins, indicating cost inefficiencies.
 
-## Tools Used
-- Power BI Desktop  
-- Excel dataset
-  
-  ## Key Insights
+ ## Key Insights
 - Identified regional variations in sales performance, with certain regions underperforming
 - Discovered top-performing product categories driving revenue growth
 - Observed seasonal trends impacting sales performance
@@ -36,4 +27,22 @@ Click below to view the full report:
 - Focus marketing efforts on high-performing regions
 - Optimize inventory based on demand trends
 - Adjust pricing or promotions in underperforming segments
+  
+## Business Impact
+- Identified underperforming product segments with negative margins
+- Highlighted high-revenue regions driving business growth
+- Provided insights to improve pricing strategy and inventory allocation
+
+## Tools Used
+- Power BI Desktop  
+- Excel dataset
+  
+## Technical Highlights
+- Built interactive dashboards using Power BI with time-intelligence measures (YoY analysis)
+- Designed KPIs and data models to analyze revenue, profit, and trends
+  
+## Dashboard Preview
+Click below to view the full report:
+**[Retail Sales Performance Dashboard (PDF)](Retail%20Sales%20Dashboard.pdf)**
+
 
