@@ -1,4 +1,6 @@
 # Retail Sales Performance Dashboard (Power BI)
+## Business Problem
+Retail businesses often struggle to track performance across regions, products, and time. This project analyzes sales data to uncover trends and support data-driven decision-making.
 
 ## Overview
 This project presents an executive-style Power BI dashboard analyzing retail sales and profit performance using the Microsoft Financial Sample dataset. The dashboard is designed to support business decision-making by highlighting trends over time, geographic performance, product profitability, and year-over-year growth.
