@@ -37,10 +37,6 @@ This project presents an executive-style Power BI dashboard analyzing retail sal
 - Power BI Desktop  
 - Excel dataset
   
-## Technical Highlights
-- Built interactive dashboards using Power BI with time-intelligence measures (YoY analysis)
-- Designed KPIs and data models to analyze revenue, profit, and trends
-  
 ## Dashboard Preview
 Click below to view the full report:
 **[Retail Sales Performance Dashboard (PDF)](Retail%20Sales%20Dashboard.pdf)**
