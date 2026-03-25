@@ -10,7 +10,7 @@ This project presents an executive-style Power BI dashboard analyzing retail sal
    Sales show an overall upward trend with strong seasonality, peaking in the last quarter of each year (November).
 
 2. **Which states and product categories generate the most revenue and profit?**  
-  California contributes approximately X% of total sales and profit, making it the top-performing state.
+  California contributes approximately $457,687.63 of total sales and $76,381.39 of total profit, making it the top-performing state.
 
 4. **How is the current year performing compared to the previous year?**  
    Year-over-Year (YoY) analysis shows positive growth, supported by time-intelligence measures in the dashboard.
