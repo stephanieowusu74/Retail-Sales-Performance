@@ -16,7 +16,7 @@ This project presents an executive-style Power BI dashboard analyzing retail sal
    Year-over-Year (YoY) analysis shows positive growth, supported by time-intelligence measures in the dashboard.
 
 5. **Which product sub-categories are the most and least profitable?**  
-  Labels generate the highest profit margins at approximately X%, while Tables and Bookcases show negative margins, indicating cost inefficiencies.
+  Labels generate the highest profit margins at approximately 44.42%, while Tables and Bookcases show negative margins, indicating cost inefficiencies.
 
  ## Key Insights
 - Identified regional variations in sales performance, with certain regions underperforming
